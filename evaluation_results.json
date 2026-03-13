@@ -1,0 +1,5 @@
+{
+    "baseline_accuracy": 0.5000,
+    "finetuned_accuracy": 0.8289,
+    "improvement": 0.3289
+}
